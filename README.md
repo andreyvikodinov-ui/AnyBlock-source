@@ -1,1 +1,1 @@
-# AnyBlock-source
+This mod allows you to place blocks like torches, flowers, and similar items on top of one another—such as stacking torches without restriction—and also lets you place these "fragile" blocks in mid-air.
